@@ -1,6 +1,6 @@
 # Todo-LocalStorage-React
 
-=>React JS Todo Component 
+=>REACT JS TODO COMPONENT
 Todo gets stored in local Storage and retrieved from the local storage with the option for editing and Deletion of Todo.
 Also completed todo gets striked!
 React have local storage and session storage to store data in browser. 1. Local Storage : Keyword localStorage is used for local storage. Browser compatibility can be checked from official page Official Local Storage
